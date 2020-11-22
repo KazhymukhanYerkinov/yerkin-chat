@@ -23,8 +23,8 @@ const Chat = ({ location }) => {
     const [message, setMessage] = useState('');
     const [messages, setMessages] = useState([]);
 
-    const ENDPOINT = 'https://yerkin-chat.herokuapp.com/';
-
+    const ENDPOINT = 'http://localhost:5000';
+    // https://yerkin-chat.herokuapp.com/
     useEffect( () => {
         const { name, room } = queryString.parse(location.search);
 

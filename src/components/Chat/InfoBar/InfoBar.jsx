@@ -4,7 +4,7 @@ import online from '../../../assets/onlineIcon.png';
 import close from '../../../assets/closeIcon.png';
 
 import './InfoBar.css';
-import { Link } from 'react-router-dom';
+
 
 const InfoBar = ({  }) => {
     return (
@@ -15,7 +15,7 @@ const InfoBar = ({  }) => {
             </div>
 
             <div className="rightInnerContainer">
-                <Link href="/"><img src={close} alt="close icon" /></Link>
+                <a href="/"><img src={close} alt="close icon" /></a>
             </div>
         </div>
     )
