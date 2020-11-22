@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/yerkin-chat/static/css/main.623a802d.chunk.css",
-    "main.js": "/yerkin-chat/static/js/main.62b5281d.chunk.js",
-    "main.js.map": "/yerkin-chat/static/js/main.62b5281d.chunk.js.map",
+    "main.js": "/yerkin-chat/static/js/main.1f4a6034.chunk.js",
+    "main.js.map": "/yerkin-chat/static/js/main.1f4a6034.chunk.js.map",
     "runtime-main.js": "/yerkin-chat/static/js/runtime-main.d35b8799.js",
     "runtime-main.js.map": "/yerkin-chat/static/js/runtime-main.d35b8799.js.map",
     "static/js/2.c0e4642b.chunk.js": "/yerkin-chat/static/js/2.c0e4642b.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.d35b8799.js",
     "static/js/2.c0e4642b.chunk.js",
     "static/css/main.623a802d.chunk.css",
-    "static/js/main.62b5281d.chunk.js"
+    "static/js/main.1f4a6034.chunk.js"
   ]
 }
