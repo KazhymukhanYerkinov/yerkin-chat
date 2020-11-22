@@ -10,7 +10,6 @@ import Input from './Input/Input';
 import Messages from './Messages/Messages';
 import TextContainer from './TextContainer/TextContainer';
 
-
 let socket;
 
 const Chat = ({ location }) => {
